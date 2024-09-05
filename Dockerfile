@@ -1,4 +1,4 @@
-FROM debian:12.6
+FROM debian:12.7
 
 RUN apt-get update &&\
     apt-get -y install --no-install-recommends bzip2 xz-utils zip unzip tar
