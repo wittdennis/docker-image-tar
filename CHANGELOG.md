@@ -2,6 +2,17 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.1.2](https://github.com/wittdennis/docker-image-tar/compare/fd48dc5d1b5f56bc442d4a309dd118f4c9aa9479..0.1.2) - 2024-11-12
+#### Bug Fixes
+- **(deps)** update debian docker tag to v12.8 - ([c07c0b2](https://github.com/wittdennis/docker-image-tar/commit/c07c0b2b595d83236db8df3215991840e67e4f35)) - wittdennis-renovate[bot]
+#### Continuous Integration
+- **(deps)** update oknozor/cocogitto-action action to v3.9 - ([b6e8266](https://github.com/wittdennis/docker-image-tar/commit/b6e826670f89d6b73d7427bde07691d0c79f10d9)) - wittdennis-renovate[bot]
+- **(deps)** update softprops/action-gh-release action to v2.0.9 - ([790098e](https://github.com/wittdennis/docker-image-tar/commit/790098e2a17a48a7585199f3073ca587c9d160d6)) - wittdennis-renovate[bot]
+#### Miscellaneous Chores
+- **(ci)** update dependency ubuntu to v24 - ([fd48dc5](https://github.com/wittdennis/docker-image-tar/commit/fd48dc5d1b5f56bc442d4a309dd118f4c9aa9479)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [0.1.1](https://github.com/wittdennis/docker-image-tar/compare/13fdca80398ae45cd06c30a588bd3afccb3fa548..0.1.1) - 2024-09-05
 #### Bug Fixes
 - **(deps)** update debian docker tag to v12.7 - ([27eb567](https://github.com/wittdennis/docker-image-tar/commit/27eb56772d620f850b7274d4b072fb05ef23ac75)) - wittdennis-renovate[bot]
