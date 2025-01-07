@@ -2,6 +2,16 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.1.3](https://github.com/wittdennis/docker-image-tar/compare/bdfc36a1eea6f6ec35c23ba600614b37b72218f5..0.1.3) - 2025-01-07
+#### Bug Fixes
+- pin debian base image - ([0cb8fd6](https://github.com/wittdennis/docker-image-tar/commit/0cb8fd6fce413fb4c6e79e5ab4b8ddd34e204739)) - Dennis Witt
+#### Continuous Integration
+- **(deps)** update softprops/action-gh-release action to v2.2.0 - ([9f0cd6f](https://github.com/wittdennis/docker-image-tar/commit/9f0cd6f2e046cd800d446506cc75371da78fc491)) - wittdennis-renovate[bot]
+- **(deps)** update softprops/action-gh-release action to v2.1.0 - ([bdfc36a](https://github.com/wittdennis/docker-image-tar/commit/bdfc36a1eea6f6ec35c23ba600614b37b72218f5)) - wittdennis-renovate[bot]
+- use shared workflow for commit validation - ([ce2e4ef](https://github.com/wittdennis/docker-image-tar/commit/ce2e4efc96446c5a133e7b24f7c276686f96c6ca)) - Dennis Witt
+
+- - -
+
 ## [0.1.2](https://github.com/wittdennis/docker-image-tar/compare/fd48dc5d1b5f56bc442d4a309dd118f4c9aa9479..0.1.2) - 2024-11-12
 #### Bug Fixes
 - **(deps)** update debian docker tag to v12.8 - ([c07c0b2](https://github.com/wittdennis/docker-image-tar/commit/c07c0b2b595d83236db8df3215991840e67e4f35)) - wittdennis-renovate[bot]
