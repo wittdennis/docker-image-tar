@@ -2,6 +2,16 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.0](https://github.com/wittdennis/docker-image-tar/compare/7c2daa30da04a2b1d32cfe1cd751cc4e5da9f235..1.0.0) - 2025-01-08
+#### Continuous Integration
+- **(deps)** update softprops/action-gh-release action to v2.2.1 - ([7c2daa3](https://github.com/wittdennis/docker-image-tar/commit/7c2daa30da04a2b1d32cfe1cd751cc4e5da9f235)) - wittdennis-renovate[bot]
+#### Documentation
+- add usage documentation to README.md - ([5e148e4](https://github.com/wittdennis/docker-image-tar/commit/5e148e42271bc0ef1412dec6e295f4248940a9e0)) - Dennis Witt
+#### Features
+- set user in image for rootless use - ([c0375d6](https://github.com/wittdennis/docker-image-tar/commit/c0375d6442807c4c89545df1e17b7bab1f66b7fa)) - Dennis Witt
+
+- - -
+
 ## [0.1.3](https://github.com/wittdennis/docker-image-tar/compare/bdfc36a1eea6f6ec35c23ba600614b37b72218f5..0.1.3) - 2025-01-07
 #### Bug Fixes
 - pin debian base image - ([0cb8fd6](https://github.com/wittdennis/docker-image-tar/commit/0cb8fd6fce413fb4c6e79e5ab4b8ddd34e204739)) - Dennis Witt
