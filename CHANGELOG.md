@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.1](https://github.com/wittdennis/docker-image-tar/compare/ea7c630bdaabdc931a9c0bd6a676d3da140cf2af..1.0.1) - 2025-01-15
+#### Bug Fixes
+- **(deps)** update debian docker tag to v12.9 - ([ea7c630](https://github.com/wittdennis/docker-image-tar/commit/ea7c630bdaabdc931a9c0bd6a676d3da140cf2af)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.0](https://github.com/wittdennis/docker-image-tar/compare/7c2daa30da04a2b1d32cfe1cd751cc4e5da9f235..1.0.0) - 2025-01-08
 #### Continuous Integration
 - **(deps)** update softprops/action-gh-release action to v2.2.1 - ([7c2daa3](https://github.com/wittdennis/docker-image-tar/commit/7c2daa30da04a2b1d32cfe1cd751cc4e5da9f235)) - wittdennis-renovate[bot]
