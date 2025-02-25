@@ -2,6 +2,18 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.3](https://github.com/wittdennis/docker-image-tar/compare/72d1fe2e2bb0926f42d89191a7baac8074155230..1.0.3) - 2025-02-25
+#### Bug Fixes
+- **(deps)** update debian:12.9 docker digest to 3528682 - ([799a717](https://github.com/wittdennis/docker-image-tar/commit/799a7173b8e616042ccf7fdf79100c4a35d5c554)) - wittdennis-renovate[bot]
+#### Continuous Integration
+- **(deps)** update wittdennis/pipelines action to v1.10.1 - ([5fd33c1](https://github.com/wittdennis/docker-image-tar/commit/5fd33c1a667f1ca62b96a0eeb069a3a4ff1bc67b)) - wittdennis-renovate[bot]
+- **(deps)** update wittdennis/pipelines action to v1.8.2 - ([3ada3c0](https://github.com/wittdennis/docker-image-tar/commit/3ada3c0dba3445a87b0eb75df276007e0b87611e)) - wittdennis-renovate[bot]
+- **(deps)** update wittdennis/pipelines action to v1.8.1 - ([7205f2c](https://github.com/wittdennis/docker-image-tar/commit/7205f2cf22744690f100c8b16bcc1df9623e1a1c)) - wittdennis-renovate[bot]
+- **(deps)** update wittdennis/pipelines action to v1.8.0 - ([ec3619e](https://github.com/wittdennis/docker-image-tar/commit/ec3619e142be70a750984397b13b6a6420034650)) - wittdennis-renovate[bot]
+- change to use reusable workflows - ([72d1fe2](https://github.com/wittdennis/docker-image-tar/commit/72d1fe2e2bb0926f42d89191a7baac8074155230)) - Dennis Witt
+
+- - -
+
 ## [1.0.2](https://github.com/wittdennis/docker-image-tar/compare/66827d7e3ae401faf91fe246cf6c972ec30ce630..1.0.2) - 2025-02-04
 #### Bug Fixes
 - **(deps)** update debian:12.9 docker digest to 4abf773 - ([66827d7](https://github.com/wittdennis/docker-image-tar/commit/66827d7e3ae401faf91fe246cf6c972ec30ce630)) - wittdennis-renovate[bot]
