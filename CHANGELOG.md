@@ -2,6 +2,19 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.6](https://github.com/wittdennis/docker-image-tar/compare/9debcb53d3f3955f19e93de405f44b9a5f08b242..1.0.6) - 2025-04-08
+#### Bug Fixes
+- **(deps)** update debian:12.10 docker digest to 00cd074 - ([0e6871d](https://github.com/wittdennis/docker-image-tar/commit/0e6871d35050e080a2c3e6bf3e373f2bbfd809bf)) - wittdennis-renovate[bot]
+- **(deps)** update wittdennis/pipelines action to v1.11.10 - ([58301b3](https://github.com/wittdennis/docker-image-tar/commit/58301b332a4639bcd4ad1abcea7cced32d79b116)) - wittdennis-renovate[bot]
+- **(deps)** update wittdennis/pipelines action to v1.11.9 - ([6094603](https://github.com/wittdennis/docker-image-tar/commit/609460393337c5420bee728df6db52af2b81a98e)) - wittdennis-renovate[bot]
+#### Continuous Integration
+- **(deps)** update wittdennis/pipelines action to v1.11.8 - ([4495533](https://github.com/wittdennis/docker-image-tar/commit/4495533c80d6fa7b6785dddb46edd78bc02c53b7)) - wittdennis-renovate[bot]
+- **(deps)** update wittdennis/pipelines action to v1.11.7 - ([0980879](https://github.com/wittdennis/docker-image-tar/commit/09808795f7ae2e282ed454cd15b0335981bcb908)) - wittdennis-renovate[bot]
+- **(deps)** update wittdennis/pipelines action to v1.11.6 - ([09bcfa3](https://github.com/wittdennis/docker-image-tar/commit/09bcfa36b918948ef33858f37d3f2a246d79c704)) - wittdennis-renovate[bot]
+- **(deps)** update wittdennis/pipelines action to v1.11.5 - ([9debcb5](https://github.com/wittdennis/docker-image-tar/commit/9debcb53d3f3955f19e93de405f44b9a5f08b242)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.5](https://github.com/wittdennis/docker-image-tar/compare/47bb1ca4b8ad2925092a4ba9abbc507c0470ff61..1.0.5) - 2025-03-18
 #### Bug Fixes
 - **(deps)** update debian:12.10 docker digest to 18023f1 - ([4d6725d](https://github.com/wittdennis/docker-image-tar/commit/4d6725d730566f08b8f5c1f6c302102713a4f7da)) - wittdennis-renovate[bot]
