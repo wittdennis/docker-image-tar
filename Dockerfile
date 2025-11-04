@@ -1,4 +1,4 @@
-FROM debian:13.1@sha256:72547dd722cd005a8c2aa2079af9ca0ee93aad8e589689135feaed60b0a8c08d
+FROM debian:13.1@sha256:e623a68de39df2046af830adc3c97928bf141c104a13cffc021fce9867aa54fe
 
 RUN apt-get update &&\
     apt-get -y install --no-install-recommends bzip2 xz-utils zip unzip tar
