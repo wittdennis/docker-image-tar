@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.17](https://github.com/wittdennis/docker-image-tar/compare/8863802ddac0f25b93e6962cfa97d083f947188e..1.0.17) - 2025-11-10
+#### Bug Fixes
+- (**deps**) update debian:13.1 docker digest to 01a723b - ([ccbe060](https://github.com/wittdennis/docker-image-tar/commit/ccbe060db8c4ebaccf04908ac889f5087f6a2a3e)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v1.12.7 - ([054871f](https://github.com/wittdennis/docker-image-tar/commit/054871f816f0aa7658cf4b5a81d7ef39d550ed12)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v1.12.6 - ([8863802](https://github.com/wittdennis/docker-image-tar/commit/8863802ddac0f25b93e6962cfa97d083f947188e)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.16](https://github.com/wittdennis/docker-image-tar/compare/a11a3cd0e2485ef8c50fdc5d3127aac115718de6..1.0.16) - 2025-11-04
 #### Bug Fixes
 - (**deps**) update debian:13.1 docker digest to e623a68 - ([cff3d7a](https://github.com/wittdennis/docker-image-tar/commit/cff3d7a6a1717728e5bbde7c1d63b8f63f953e40)) - wittdennis-renovate[bot]
