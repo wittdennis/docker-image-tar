@@ -2,6 +2,19 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.25](https://github.com/wittdennis/docker-image-tar/compare/c761554a76dc1cad338b970bdca0bfaa6f03d5e9..1.0.25) - 2026-04-07
+#### Bug Fixes
+- (**deps**) update debian:13.4 docker digest to 3352c2e - ([3817da6](https://github.com/wittdennis/docker-image-tar/commit/3817da6d34aed93ad31bd0670df6f57884f73250)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.4 - ([da99cee](https://github.com/wittdennis/docker-image-tar/commit/da99ceeccace5d8b90a848a21ac8e5bd3f2aa9f6)) - wittdennis-renovate[bot]
+- (**deps**) pin wittdennis/pipelines action to 29f41b6 - ([295d266](https://github.com/wittdennis/docker-image-tar/commit/295d266d5fcc371a3a63a885939e0b7f1953aae9)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.2 - ([596ea17](https://github.com/wittdennis/docker-image-tar/commit/596ea175dcbd7d4f881f1f8b2aebfb3b8a68f128)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.1 - ([fc0072e](https://github.com/wittdennis/docker-image-tar/commit/fc0072e45f72511949ed584623cd57d44c6e18b5)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2 - ([c2450f5](https://github.com/wittdennis/docker-image-tar/commit/c2450f5e45cf557df5784aba2f86b88639b65ee8)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v1.13.26 - ([69f8273](https://github.com/wittdennis/docker-image-tar/commit/69f82736751f77d4ce589439d8cc99d800d9d6ff)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v1.13.25 - ([c761554](https://github.com/wittdennis/docker-image-tar/commit/c761554a76dc1cad338b970bdca0bfaa6f03d5e9)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.24](https://github.com/wittdennis/docker-image-tar/compare/cbc72017fa0f0ba4d8aa26ce1d0e203b8a4b5447..1.0.24) - 2026-03-17
 #### Bug Fixes
 - (**deps**) update debian docker tag to v13.4 - ([b91839a](https://github.com/wittdennis/docker-image-tar/commit/b91839a882a3e481bb7eb15bdf9a2c530d265305)) - wittdennis-renovate[bot]
