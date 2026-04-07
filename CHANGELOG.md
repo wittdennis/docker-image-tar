@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.26](https://github.com/wittdennis/docker-image-tar/compare/537c4ad64870a4be221e68906a92154cf49710c2..1.0.26) - 2026-04-07
+#### Bug Fixes
+- (**ci**) publish pipeline - ([537c4ad](https://github.com/wittdennis/docker-image-tar/commit/537c4ad64870a4be221e68906a92154cf49710c2)) - Dennis Witt
+
+- - -
+
 ## [1.0.25](https://github.com/wittdennis/docker-image-tar/compare/c761554a76dc1cad338b970bdca0bfaa6f03d5e9..1.0.25) - 2026-04-07
 #### Bug Fixes
 - (**deps**) update debian:13.4 docker digest to 3352c2e - ([3817da6](https://github.com/wittdennis/docker-image-tar/commit/3817da6d34aed93ad31bd0670df6f57884f73250)) - wittdennis-renovate[bot]
