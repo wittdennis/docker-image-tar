@@ -2,6 +2,18 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.28](https://github.com/wittdennis/docker-image-tar/compare/e6528af297eecc108fa02f5aadd9f7ad8136c29e..1.0.28) - 2026-05-11
+#### Bug Fixes
+- (**deps**) update debian:13.4 docker digest to e2d08da - ([913da3a](https://github.com/wittdennis/docker-image-tar/commit/913da3aaf306e457539ba42b8f4bb1593c64cb52)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.16 - ([d7cf7ed](https://github.com/wittdennis/docker-image-tar/commit/d7cf7edec1df6f7d193c0a8ad14d4c156f02900c)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.15 - ([bb492b1](https://github.com/wittdennis/docker-image-tar/commit/bb492b1f698cc93a97490d8fe291f60b72d9bc10)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.14 - ([501b28f](https://github.com/wittdennis/docker-image-tar/commit/501b28fb7336cb8d51ab8d94bcc02e852907c618)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.13 - ([2fcb445](https://github.com/wittdennis/docker-image-tar/commit/2fcb445dda0edcea3441319e35ed06956d87e5a6)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.12 - ([2fa06e2](https://github.com/wittdennis/docker-image-tar/commit/2fa06e28f61d83ba41540d09ec063f6714a64ffb)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.11 - ([e6528af](https://github.com/wittdennis/docker-image-tar/commit/e6528af297eecc108fa02f5aadd9f7ad8136c29e)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.27](https://github.com/wittdennis/docker-image-tar/compare/e71a31a4c619a07dc0e20f78a680bc7d8a987d7f..1.0.27) - 2026-04-22
 #### Bug Fixes
 - (**deps**) update debian:13.4 docker digest to 35b8ff7 - ([aaf4328](https://github.com/wittdennis/docker-image-tar/commit/aaf4328a1a51f3a4b22043e823a625a76fcf7b34)) - wittdennis-renovate[bot]
