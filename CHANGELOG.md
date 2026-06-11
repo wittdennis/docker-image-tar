@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.31](https://github.com/wittdennis/docker-image-tar/compare/9f1f8f3ee66d3030b46617521085bfadb165ba80..1.0.31) - 2026-06-11
+#### Bug Fixes
+- (**deps**) update debian:13.5 docker digest to fe7312b - ([9f1f8f3](https://github.com/wittdennis/docker-image-tar/commit/9f1f8f3ee66d3030b46617521085bfadb165ba80)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.30](https://github.com/wittdennis/docker-image-tar/compare/133454500d480b7730f9efd89242f55adb72d5d4..1.0.30) - 2026-06-11
 #### Bug Fixes
 - (**deps**) update debian:13.5 docker digest to 7c83da8 - ([9f2926b](https://github.com/wittdennis/docker-image-tar/commit/9f2926b7924968d9e2e0f349bda9c79314408227)) - wittdennis-renovate[bot]
