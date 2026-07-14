@@ -2,6 +2,23 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.32](https://github.com/wittdennis/docker-image-tar/compare/382e89a672fc1b04c21cf323dfb1985dc83ba4be..1.0.32) - 2026-07-14
+#### Bug Fixes
+- (**deps**) update debian docker tag to v13.6 - ([7f4c3ae](https://github.com/wittdennis/docker-image-tar/commit/7f4c3ae253c6f5f8c694352eab137ad083a9b4c4)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.36 - ([dc48ffd](https://github.com/wittdennis/docker-image-tar/commit/dc48ffdb47c986f42aed21610f30db687ec4a5ec)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.35 - ([7e2aed3](https://github.com/wittdennis/docker-image-tar/commit/7e2aed3921521722431d404a874001b4b99e8954)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.34 - ([dc9413b](https://github.com/wittdennis/docker-image-tar/commit/dc9413b829cc9b63357bcb02c9d3725d60479763)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.33 - ([0084f9a](https://github.com/wittdennis/docker-image-tar/commit/0084f9a33085fd0ad390b4df2e7473869edc186c)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.32 - ([c3a41cd](https://github.com/wittdennis/docker-image-tar/commit/c3a41cd792d281b8b528eb32fd6fb71f1c82a000)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.31 - ([0db1e94](https://github.com/wittdennis/docker-image-tar/commit/0db1e9421418501b6d345a4f7e93e91494492e94)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.29 - ([23afb5a](https://github.com/wittdennis/docker-image-tar/commit/23afb5a2f707db41edc993bdd636b8bb66c2b639)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.28 - ([83beee3](https://github.com/wittdennis/docker-image-tar/commit/83beee3fe533a4df67e5cd199ced7425919ec9da)) - wittdennis-renovate[bot]
+- (**deps**) update debian:13.5 docker digest to d07d1b5 - ([bb6276f](https://github.com/wittdennis/docker-image-tar/commit/bb6276fe31cb7dc0634b9ae792b2522fb3e94b8e)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.26 - ([537ee56](https://github.com/wittdennis/docker-image-tar/commit/537ee565dbf3433be15da6935dd5c973b5a5200a)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.25 - ([382e89a](https://github.com/wittdennis/docker-image-tar/commit/382e89a672fc1b04c21cf323dfb1985dc83ba4be)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.31](https://github.com/wittdennis/docker-image-tar/compare/9f1f8f3ee66d3030b46617521085bfadb165ba80..1.0.31) - 2026-06-11
 #### Bug Fixes
 - (**deps**) update debian:13.5 docker digest to fe7312b - ([9f1f8f3](https://github.com/wittdennis/docker-image-tar/commit/9f1f8f3ee66d3030b46617521085bfadb165ba80)) - wittdennis-renovate[bot]
