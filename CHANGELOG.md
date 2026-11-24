@@ -2,6 +2,18 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.41](https://github.com/wittdennis/docker-image-tar/compare/3081f2e5cf86012d25a069572ed646242e0d6db9..1.0.41) - 2026-11-24
+#### Bug Fixes
+- (**deps**) update debian docker tag to v13.8 - ([74c534d](https://github.com/wittdennis/docker-image-tar/commit/74c534dad884d289cbf6c527332977a4978f0fd0)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.75 - ([056f81d](https://github.com/wittdennis/docker-image-tar/commit/056f81dc5155d2d0a0e35590bf13b20ff02bf2fb)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.74 - ([307bf7d](https://github.com/wittdennis/docker-image-tar/commit/307bf7d022718c168db35ed522f65f0a01f49eeb)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.73 - ([5025abc](https://github.com/wittdennis/docker-image-tar/commit/5025abca333ccd324f7a3087eb520b60bc59a901)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.72 - ([6c726e6](https://github.com/wittdennis/docker-image-tar/commit/6c726e6221bc7d75aaca3d92a994fb71ccab2cbe)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.71 - ([75e8dbd](https://github.com/wittdennis/docker-image-tar/commit/75e8dbdc3c21afcd1648eeb354d555d5ad3fbe58)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.70 - ([3081f2e](https://github.com/wittdennis/docker-image-tar/commit/3081f2e5cf86012d25a069572ed646242e0d6db9)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.40](https://github.com/wittdennis/docker-image-tar/compare/0a6efa92e9fdb23e31f5d184d97e5df1cb67f943..1.0.40) - 2026-11-05
 #### Bug Fixes
 - (**deps**) update debian:13.7 docker digest to 9c6e381 - ([38e707c](https://github.com/wittdennis/docker-image-tar/commit/38e707c992ce9ff1b15c469a9f8306e72143e717)) - wittdennis-renovate[bot]
